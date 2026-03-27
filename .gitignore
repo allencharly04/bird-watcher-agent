@@ -1,0 +1,23 @@
+# Secret credentials - NEVER commit this
+.env
+
+# YOLOv8 model weights (large binary, download separately)
+*.pt
+*.onnx
+
+# Runtime outputs
+bird_alert.jpg
+*.jpg
+*.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
