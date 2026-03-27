@@ -1,4 +1,4 @@
-# 🐦 Bird Feeder Watcher Agent
+# 🐦 Bird Feeder Watcher 
 
 A real-time computer vision agent that monitors a bird feeder using a live camera stream, detects birds using YOLOv8, and instantly sends a photo alert to your phone via Telegram.
 
